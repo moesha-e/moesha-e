@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moesha-e
-- 👀 I’m interested in coding, reading and more coding
+- 👀 I’m interested in coding and reading!
 - 🌱 I’m currently learning JS and python
 <!--- 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me --->
